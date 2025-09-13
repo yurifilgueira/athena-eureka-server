@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: athena_eureka_server
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
