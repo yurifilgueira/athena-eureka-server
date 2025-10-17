@@ -1,6 +1,6 @@
 spring:
   application:
-    name: athena_eureka_server
+    name: athena-eureka-server
 
 management:
   endpoints:
